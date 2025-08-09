@@ -1,4 +1,4 @@
-use clap::{Parser, Subcommand, Args};
+use clap::{Parser, Subcommand};
 mod ai;
 mod ai_memory;
 use anyhow::Result;

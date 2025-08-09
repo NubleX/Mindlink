@@ -4,7 +4,7 @@ Create a `.env` in the project root (or export env vars):
 OPENAI_API_KEY=sk-your-key
 AI_PROVIDER=openai
 AI_MODEL=gpt-5
-AI_MEMORY_TURNS=50
+AI_MEMORY_TURNS=6
 ```
 
 ## Usage
