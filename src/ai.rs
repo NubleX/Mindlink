@@ -3,7 +3,7 @@ use anyhow::{anyhow, Result};
 use futures_util::StreamExt;
 use rand::{thread_rng, Rng};
 use reqwest::{header, Client};
-use reqwest_eventsource::{EventSource, RequestBuilderExt};
+use reqwest_eventsource::EventSource;
 use serde::{Deserialize, Serialize};
 use std::env;
 use tokio::time::{sleep, Duration};

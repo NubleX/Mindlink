@@ -1,0 +1,10 @@
+C:\Users\nuble\projects\Mindlink\target\debug\deps\eventsource_stream-59d565f83ab1c831.d: C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\lib.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\event.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\event_stream.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\parser.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\traits.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\utf8_stream.rs
+
+C:\Users\nuble\projects\Mindlink\target\debug\deps\libeventsource_stream-59d565f83ab1c831.rmeta: C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\lib.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\event.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\event_stream.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\parser.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\traits.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\utf8_stream.rs
+
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\lib.rs:
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\event.rs:
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\event_stream.rs:
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\parser.rs:
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\traits.rs:
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\eventsource-stream-0.2.3\src\utf8_stream.rs:

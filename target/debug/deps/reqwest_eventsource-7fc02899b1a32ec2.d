@@ -1,0 +1,9 @@
+C:\Users\nuble\projects\Mindlink\target\debug\deps\reqwest_eventsource-7fc02899b1a32ec2.d: C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\lib.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\error.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\event_source.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\reqwest_ext.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\retry.rs
+
+C:\Users\nuble\projects\Mindlink\target\debug\deps\libreqwest_eventsource-7fc02899b1a32ec2.rmeta: C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\lib.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\error.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\event_source.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\reqwest_ext.rs C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\retry.rs
+
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\lib.rs:
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\error.rs:
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\event_source.rs:
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\reqwest_ext.rs:
+C:\Users\nuble\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\reqwest-eventsource-0.5.0\src\retry.rs:
